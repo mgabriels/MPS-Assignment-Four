@@ -1,0 +1,13 @@
+C:\Users\MIkaela\Desktop\UWC COURSE\Visual Studio\Assignments\AssignmentFour\AssignmentFour\bin\Debug\netcoreapp3.1\AssignmentFour.exe
+C:\Users\MIkaela\Desktop\UWC COURSE\Visual Studio\Assignments\AssignmentFour\AssignmentFour\bin\Debug\netcoreapp3.1\AssignmentFour.deps.json
+C:\Users\MIkaela\Desktop\UWC COURSE\Visual Studio\Assignments\AssignmentFour\AssignmentFour\bin\Debug\netcoreapp3.1\AssignmentFour.runtimeconfig.json
+C:\Users\MIkaela\Desktop\UWC COURSE\Visual Studio\Assignments\AssignmentFour\AssignmentFour\bin\Debug\netcoreapp3.1\AssignmentFour.runtimeconfig.dev.json
+C:\Users\MIkaela\Desktop\UWC COURSE\Visual Studio\Assignments\AssignmentFour\AssignmentFour\bin\Debug\netcoreapp3.1\AssignmentFour.dll
+C:\Users\MIkaela\Desktop\UWC COURSE\Visual Studio\Assignments\AssignmentFour\AssignmentFour\bin\Debug\netcoreapp3.1\AssignmentFour.pdb
+C:\Users\MIkaela\Desktop\UWC COURSE\Visual Studio\Assignments\AssignmentFour\AssignmentFour\obj\Debug\netcoreapp3.1\AssignmentFour.csprojAssemblyReference.cache
+C:\Users\MIkaela\Desktop\UWC COURSE\Visual Studio\Assignments\AssignmentFour\AssignmentFour\obj\Debug\netcoreapp3.1\AssignmentFour.AssemblyInfoInputs.cache
+C:\Users\MIkaela\Desktop\UWC COURSE\Visual Studio\Assignments\AssignmentFour\AssignmentFour\obj\Debug\netcoreapp3.1\AssignmentFour.AssemblyInfo.cs
+C:\Users\MIkaela\Desktop\UWC COURSE\Visual Studio\Assignments\AssignmentFour\AssignmentFour\obj\Debug\netcoreapp3.1\AssignmentFour.csproj.CoreCompileInputs.cache
+C:\Users\MIkaela\Desktop\UWC COURSE\Visual Studio\Assignments\AssignmentFour\AssignmentFour\obj\Debug\netcoreapp3.1\AssignmentFour.dll
+C:\Users\MIkaela\Desktop\UWC COURSE\Visual Studio\Assignments\AssignmentFour\AssignmentFour\obj\Debug\netcoreapp3.1\AssignmentFour.pdb
+C:\Users\MIkaela\Desktop\UWC COURSE\Visual Studio\Assignments\AssignmentFour\AssignmentFour\obj\Debug\netcoreapp3.1\AssignmentFour.genruntimeconfig.cache
